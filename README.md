@@ -153,6 +153,14 @@ It is built with Moonwave and organized into the following sections in `docs/`:
 
 ---
 
+## Support & Bug Reports
+
+If you run into issues while configuring your loadouts or discover a bug in the system, you can request support or submit a bug report through our Discord community:
+
+- **Discord Server**: [https://discord.gg/3W436mHzr2](https://discord.gg/3W436mHzr2)
+
+---
+
 ## Building Documentation Locally
 
 This project uses [Moonwave](https://eryn.io/moonwave) to build documentation:
@@ -164,3 +172,4 @@ moonwave dev
 # Build static documentation files
 moonwave build
 ```
+

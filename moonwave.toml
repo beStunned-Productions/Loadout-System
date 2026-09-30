@@ -7,6 +7,11 @@ tagline = "A simple, yet configurable Loadout Management for Roblox"
 url = "https://bestunned-productions.github.io"
 baseUrl = "/Loadout-System/"
 
+[[navbar.items]]
+href = "https://discord.gg/3W436mHzr2"
+label = "Discord"
+position = "right"
+
 [home]
 enabled = true
 includeReadme = true

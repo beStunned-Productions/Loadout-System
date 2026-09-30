@@ -41,3 +41,12 @@ When enabled, the system prints warnings when:
 - **Limb naming**: Ensure the reference limbs in your morph model match your game's rig type (R15 uses `UpperTorso`, `LowerTorso`, `Head`, etc.; R6 uses `Torso`, `Head`, etc.).
 - **Neutral pose**: Assemble your morph model on a dummy in the default neutral pose so the relative CFrame offset matches the player's spawn pose.
 - **Pre-existing welds**: Ensure armor parts do not have hardcoded motor joints or rigid welds that conflict with dynamic welding.
+
+---
+
+## Support & Bug Reports
+
+If you encounter difficulties configuring the system or find a bug, you can request support or report the issue in our Discord:
+
+- **Discord Community**: [https://discord.gg/3W436mHzr2](https://discord.gg/3W436mHzr2)
+
