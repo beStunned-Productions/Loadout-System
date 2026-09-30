@@ -3,7 +3,7 @@ gitSourceBranch = "main"
 
 [docusaurus]
 title = "Loadout System"
-tagline = "Team & Rank-Based Loadout Management for Roblox"
+tagline = "A simple, yet configurable Loadout Management for Roblox"
 url = "https://bestunned-productions.github.io"
 baseUrl = "/Loadout-System/"
 
