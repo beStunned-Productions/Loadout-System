@@ -1,0 +1,12 @@
+gitRepoUrl = "https://github.com/beStunned-Productions/Loadout-System"
+gitSourceBranch = "main"
+
+[docusaurus]
+title = "Loadout System"
+tagline = "Team & Rank-Based Loadout Management for Roblox"
+url = "https://bestunned-productions.github.io"
+baseUrl = "/Loadout-System/"
+
+[home]
+enabled = true
+includeReadme = true

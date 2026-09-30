@@ -1,0 +1,5 @@
+/sync
+package-lock.json
+sourcemap.json
+build/
+node_modules/
