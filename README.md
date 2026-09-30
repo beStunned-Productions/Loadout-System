@@ -2,6 +2,8 @@
 
 A server-side role and team-based loadout management system for Roblox. It automates inventory provisioning, humanoid statistics, clothing, accessory loading, morph welding, custom character attributes, and collision groups based on a player's team and group rank.
 
+**Documentation Website**: [https://bestunned-productions.github.io/Loadout-System/](https://bestunned-productions.github.io/Loadout-System/)
+
 ---
 
 ## Key Features
@@ -133,7 +135,9 @@ return table.freeze(Settings)
 
 ## Documentation
 
-Full documentation is built with Moonwave and organized into the following sections in `docs/`:
+The full documentation website is published at [https://bestunned-productions.github.io/Loadout-System/](https://bestunned-productions.github.io/Loadout-System/).
+
+It is built with Moonwave and organized into the following sections in `docs/`:
 
 - [System Architectures](docs/architecture/index.md)
   - [Drop-In Architecture](docs/architecture/drop-in.md)
